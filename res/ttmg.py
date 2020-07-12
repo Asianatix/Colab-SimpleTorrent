@@ -4,7 +4,21 @@ HOME = os.path.expanduser("~")
 CWD = os.getcwd()
 
 tokens = {
-      "api":"",
+    "api1": "1XItLcr10SZKYWZMV5kIEc0R9O1_6p1PiUjzyN52TFNEeFmVd",
+    "api2": "1aD7EdFhHS1RpUEzgitDfKXFFrU_5QDs2ydYdhksLnEBzLLV",
+    "api3": "1aD7XX6gKuuSRpu9cmw8hEyjA0l_2qTR2goU2ziuwzxd5Li88",
+    "api4": "1eTmwc7Qm9CTrow2N2uP1xT5254_5oqxJ9BmBAK6czpG6ZxfV",
+    "api5": "1eTocMIZPtusbG1j8uNkHUfK4Gp_2nh1CdFUD8hhBs2KiLsR6",
+    "api6": "1eTomFeLGLbB9l1pWga6dzYH7Qs_pU7wyks4V8ZpweXu1F9Q",
+    "api7": "1eToudXhSIuBbvcdhJPU1MrNDK9_5sMxpfoyKcyrmp513GaUh",
+    "api8": "1eTp4VRZzxVuuBMXTvU9xJTSfTo_4QJcYobCsbwVyxH5Y4W9j",
+    "api9": "1eTpJMh2bXF7lT3vE9ly7lOobib_7NCyJSDKSQYEWiHUkWwL2",
+    "api10": "1eTq6wdNAUcY6r12kwZ6OF1JjxC_7GqnBguQRU3zHAcDVe7AS",
+    "api11": "1eTpu98jWbCFmKZf6asSlZleSPM_2EMRiNgnFALbj7tmfMS37",
+    "api12": "1eTq0RpbOTXhZj90kFY5EscGEqF_7s3yVdLHm8GJ7TaATy64c",
+    "api13": "1eTqcEqdh6SXoJpndZ0mR7LoAHF_2c4Wfjduk6pEkq5DR9B8T",
+    "api14": "1eTqVVPcRPIIjpzXlsr2DZR9c8f_2EMZJXWxRNFZf5pF9PCxz",
+    "api15": "1aD7k9wls7PYCHGKoVTrWNiI7lm_cnUTCH6jZkwwP8FTBsxW"
 }
 
 class ngrok:
